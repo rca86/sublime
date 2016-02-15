@@ -1,0 +1,5 @@
+{
+   "phpcs_executable_path" : "/home/carnyx/.composer/vendor/bin/phpcs",
+   "phpmd_executable_path" : "/home/carnyx/.composer/vendor/bin/phpmd",
+   "php_cs_fixer_executable_path" : "/home/carnyx/.composer/vendor/bin/php-cs-fixer"
+}

@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Markdown Extended",
+		"Material Theme",
+		"Numix Theme",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter-phpcs",
+		"Theme - Brogrammer",
+		"Theme - Numix",
+		"Theme - Numix Light",
+		"Theme - Superman"
+	]
+}
