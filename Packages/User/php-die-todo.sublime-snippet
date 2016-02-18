@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[die(${2});//ToDo: remove]]></content>
+    <tabTrigger>die</tabTrigger>
+</snippet>
